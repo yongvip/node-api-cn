@@ -5,4 +5,4 @@ added: v0.5.9
 * `message` {any}
 
 [`assert.ok()`] 的别名。
-
+assert.ok(true);
